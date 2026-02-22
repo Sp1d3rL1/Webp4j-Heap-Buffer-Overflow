@@ -1,5 +1,3 @@
-# CVE Report
-
 ## webp4j Heap Buffer Overflow Vulnerability
 
 ### Vulnerability Principle
